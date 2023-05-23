@@ -1,0 +1,37 @@
+p
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+
+}
+h3{
+    color: darkorange;
+}
+
+.external {
+    color: rgb(196, 179, 83);
+    background-color: rgb(83, 79, 79);
+}
+.external2{
+    font-style: italic;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.external p{
+ 
+    color:coral
+}
+
+.position {
+    margin-left: 100px;
+    margin-top: 3%;
+    border: 2px solid;
+    border-radius: 3%;
+    border-color: blue;
+    padding-inline-start: 5px;
+}
+.input{
+    border: 2px solid;
+    border-color: rgb(2, 2, 7);
+    border-spacing: 2px;
+    padding-left: 50%;
+}
